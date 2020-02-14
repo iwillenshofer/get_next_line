@@ -1,6 +1,6 @@
 <p align="center">
-	<img width="130px;" src="https://game.42sp.org.br/static/assets/images/42_logo_black.svg" align="center" alt="42" />&nbsp;&nbsp;&nbsp;
-	<img width="130px" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" align="center" alt="get_next_line" />
+	<img width="130px;" src="https://raw.githubusercontent.com/iwillenshofer/resources/main/images/42_logo_black.svg" align="center" alt="42" />&nbsp;&nbsp;&nbsp;
+	<img width="130px" src="https://raw.githubusercontent.com/iwillenshofer/resources/main/achievements/get_next_line.png" align="center" alt="get_next_line" />
 	<h1 align="center">get_next_line</h1>
 </p>
 <p align="center">
@@ -23,7 +23,7 @@
 
 > _May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects._
 
-[Download the Subject ⤓](en.subject.pdf)
+
 
 <br>
 
