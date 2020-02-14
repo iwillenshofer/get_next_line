@@ -6,7 +6,7 @@
 /*   By: iwillens <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/11 14:44:34 by iwillens          #+#    #+#             */
-/*   Updated: 2020/02/13 18:56:27 by iwillens         ###   ########.fr       */
+/*   Updated: 2020/02/14 14:00:31 by iwillens         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -101,7 +101,7 @@ int		get_next_line(int fd, char **line)
 		return (-1);
 	if (fd < 0 || BUFFER_SIZE < 1)
 	{
-		*line = gnl_strdup("");
+		*line = NULL;
 		return (-1);
 	}
 	var.pos = get_next_loop(fd, line, &gnl, &var);
